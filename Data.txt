@@ -1,0 +1,3 @@
+https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset?
+
+the data for this project was taken from this dataset on kaggle.  All rights and credits go to their rightful owners
